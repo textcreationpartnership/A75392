@@ -1,0 +1,197 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Another great victorie obtained by Vice-Admiral Pen against the Hollanders, since the last great and terrible engagement between both fleets; with the full particulars thereof, advertised by letters from the generals at sea, to the Parliament and Councel of State: together with a list of the names of the ships taken, and brought to Dover, laden with bars of silver, cocheneal, wines, sugar, salt, and tobacco: the landing of seven hundred prisoners; and the number of ships sunk, burnt, taken, and dispursed. Likewise, a narrative of the great loss on the Parl. side. Whereunto is annexed, the answer and remonstrance of the officers and souldiers in Scotland, to the late letter of the Lord Gen. Cromwel, and the Conncel [sic] of Officers in England, for the chusing of a new Parliament, to remove the heavy burdens, and to set the oppressed free. Brought by the last post, Sunday, Feb. 26. and published (according to order) to undeceive the people.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1653</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A75392</idno>
+            <idno type="STC">Wing A3267</idno>
+            <idno type="STC">Thomason E689_1</idno>
+            <idno type="STC">ESTC R206905</idno>
+            <idno type="EEBO-CITATION">99865999</idno>
+            <idno type="PROQUEST">99865999</idno>
+            <idno type="VID">166444</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A75392)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 166444)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 106:E689[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Another great victorie obtained by Vice-Admiral Pen against the Hollanders, since the last great and terrible engagement between both fleets; with the full particulars thereof, advertised by letters from the generals at sea, to the Parliament and Councel of State: together with a list of the names of the ships taken, and brought to Dover, laden with bars of silver, cocheneal, wines, sugar, salt, and tobacco: the landing of seven hundred prisoners; and the number of ships sunk, burnt, taken, and dispursed. Likewise, a narrative of the great loss on the Parl. side. Whereunto is annexed, the answer and remonstrance of the officers and souldiers in Scotland, to the late letter of the Lord Gen. Cromwel, and the Conncel [sic] of Officers in England, for the chusing of a new Parliament, to remove the heavy burdens, and to set the oppressed free. Brought by the last post, Sunday, Feb. 26. and published (according to order) to undeceive the people.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for G. Horton.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>[1653]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Date of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "March. 1st 1652.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Naval battles --  Early works to 1800.</term>
+               <term>Anglo-Dutch War, 1652-1654 --  Early works to 1800.</term>
+               <term>Netherlands --  History --  1648-1714 --  Early works to 1800.</term>
+               <term>Great Britain --  History, Naval --  Stuarts, 1603-1714 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:166444:1" rendition="simple:additions"/>
+            <p>Another great VICTORIE Obtained By Vice-Admiral PEN againſt the Hol<g ref="char:EOLhyphen"/>landers, ſince the laſt great and terrible Engage<g ref="char:EOLhyphen"/>ment between both Fleets;</p>
+            <p>With the full Particulars thereof, adverti<g ref="char:EOLhyphen"/>ſed by Letters from the Generals at Sea, to the Parliament and Councel of State:</p>
+            <p>Together with a Liſt of the Names of the ſhips ta<g ref="char:EOLhyphen"/>ken, and brought to Dover, laden with Bars of Silver, Cocheneal, Wines, Sugar, Salt, and Tobacco: The land<g ref="char:EOLhyphen"/>ing of ſeven hundred priſoners; And the number of ſhips ſunk, burnt, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, and diſperſed.</p>
+            <p>
+               <hi>Likewiſe, a Narrative of the great loſsen the Parl. ſide.</hi>
+            </p>
+            <p>
+               <hi>Whereunto is annexed,</hi> The Anſwer and Remonſtrance of the Officers and Souldiers in Scotland, to the late Letter of the Lord Gen. Cromwel, and the Councel of Officers in England, for the chuſing of a new Parliament, to remore the heavy burdens, and to ſet the opp<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>eſſed free.</p>
+            <p>
+               <hi>BRought by the laſt Poſt, Sunday, Feb.</hi> 26. <hi>and publiſhed (ac<g ref="char:EOLhyphen"/>cording to Order) to undeceive the People.</hi>
+            </p>
+            <p>London, Printed for G. HORTON.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:166444:2"/>
+            <pb n="3" facs="tcp:166444:2"/>
+            <head>Another great Victory obtained by the Engliſh againſt the Hollanders; adver<g ref="char:EOLhyphen"/>tiſed by Letters to the honorable Coun<g ref="char:EOLhyphen"/>cel of State.</head>
+            <opener>
+               <salute>Right Honorable,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">S</seg>Ince the laſt Engagement with the enemy, it hath pleaſed God to add further Trophies of ſucceſs to that memorable Victory, wherein we ſunk, fired, took, and diſpierſed their great Arma<g ref="char:EOLhyphen"/>do; Upon whoſe flight, Vice-Admiral Pen coming opportunely in with about 15 ſail of freſh ſhips, embraced the purſuit, where at laſt he glean'd up 14 brave Prizes, which
+<pb n="4" facs="tcp:166444:3"/>had lately reapt their Harveſt in France: they are now bound for the Iſle of Wight, and others come in daily; amongſt the reſt, divers rich Prizes are already ſent to Do<g ref="char:EOLhyphen"/>ver; a Liſt whereof followeth:
+<list>
+                  <head>A Liſt of the Dutch ſhips brought into Dover; together with the number of priſoners.</head>
+                  <item>1 The black Buſh of Emby, laden with ſalt and vinegar, burden 22 tun.</item>
+                  <item>2 The Golden Cock, a man of War, 36 Guns.</item>
+                  <item>3 The Peacock of Ember laden with ſalt, 22 tun.</item>
+                  <item>4 The Church of Amſterdam, laden with Wine, burden 300 tun.</item>
+                  <item>5 The Abigal of Ember, laden with Wine and ſtrongwater.</item>
+                  <item>6 The Star, laden with Wine and Vine<g ref="char:EOLhyphen"/>gar.</item>
+                  <pb n="5" facs="tcp:166444:3"/>
+                  <item>7 The Beaver, laden with Salt and Vine<g ref="char:EOLhyphen"/>gar.</item>
+                  <item>8 The Church of Gravendick, laden with Salt, Orenges and Lemons, burden 200 tun and upward, 7 Guns.</item>
+                  <item>9 The George of Membeck, laden with ſalt, and Brand, burden 300 tun.</item>
+                  <item>10 The black Raven of Membeck, laden with ſalt, burden 300 tun.</item>
+                  <item>11 St. Peter of Hamburgh, burden 200 tun laden with Nants Wine.</item>
+                  <item>12 The Antwerp, laden with tobacco and ſugar, burden 80 tun, 4 guns.</item>
+                  <item>13 Princeſs Amiletta, laden wit ſilver bars, burden 400 tun.</item>
+                  <item>14 Lyon of Fluſhen, laden with ſilver bars, Cocheneal, and other rich commodities from St. Lucas.</item>
+                  <item>15 About 700 priſoners landed.</item>
+               </list>
+            </p>
+            <p>The loſs on our ſide is greater then was expected, for we a ve loſt many precious
+<pb n="6" facs="tcp:166444:4" rendition="simple:additions"/>Commanders; beſides many wounded; who are brought to the Weſtern Ports, ſome having loſt their legs, and others their arms; an Object of great pity and compaſſion. We hear that Vantrump lies at anchor in Callis Roads; and that Dewitte is coming forth to joyn with him; but we have a gal<g ref="char:EOLhyphen"/>lant party abroad to attend his motion, that dayly bring in more of them. The reſt of Our fleet are equipping and making ready at Portſmout; and this Summer we doubt not (by Gods aſſiſtance) to be Maſters of the ſeas.</p>
+            <closer>
+               <dateline>Southampton, <date>Feb. 26. 1653.</date>
+               </dateline>
+            </closer>
+            <postscript>
+               <p>The particulars hereof being communicated to the Parliament; it was ordered that the Miniſters do return thanks to Almighty God, in their ſeverall Congregations throughout England and Wales for this great Victory againſt the Hollanders.</p>
+               <p>And likewiſe ordered, that due proviſions be made for the wives and children of thoſe that have loſt their lives in the ſervice of this Common<g ref="char:EOLhyphen"/>wealth againſt the enemy.</p>
+            </postscript>
+         </div>
+         <div type="text">
+            <pb n="7" facs="tcp:166444:4"/>
+            <head>The Anſwer of the Officers of the Army in Scotland, to the lato Letter ſent from the Lord Gen. Cromwel, and the Coun<g ref="char:EOLhyphen"/>cel of the Army in England, concerning the chuſing of a new Parliament.</head>
+            <opener>
+               <salute>Dear and precious friends,</salute>
+            </opener>
+            <p>YOurs of the 28 of Jan. came to our hands, and was with abundance of joy and gladneſs received by us, and we hope that it will in a great meaſure ſtirre up our hearts, and a waken us out of that dead and drowſie condi<g ref="char:EOLhyphen"/>tion which along time we have lain in; and we do bleſſe the name of the Lord on your behalfes, who have put us in remembrance of theſe things: for ſurely we have been altogether deficient in our ſuitable returnes to the moſt High for theſe extraordinary mercies, and unexpected fa<g ref="char:EOLhyphen"/>vours, which not onely our ſelves, but all the Lords peo<g ref="char:EOLhyphen"/>ple in theſe Nations have been ſharers in; And indeed we are very ſenſible how far we have neglected our duty each to others, in that we have not endeavoured the ſtrength<g ref="char:EOLhyphen"/>ning of our, hearts and hands each of other by renewing the remembrance of the great things of our God upon all occaſions one to another, but have rather had our hearts and hands imployed in ſuch things as will not at all ad<g ref="char:EOLhyphen"/>vantage us at the appearing of our Lord; ſo that we muſt needs ſay, that we have every one of us ſought his owne, but not others good; neither have we endeavoured in our ſeveral places the anſwering of that great deſign of God, which ſurely he will have brought about, which is to loſe the bands of wickedneſs, to undo the heavy burdens, and to let the oppreſſed go free; then ſhould the light have brake forth as the morning, and the righteouſneſs ſhall go before, and the glory of the Lord ſhal be our reward, <hi>Iſai.</hi> 28. Theſe things being ſenſibly ſet upon our hearts, we
+<pb n="8" facs="tcp:166444:5"/>could not but acquaint you; and through grace we do &amp; ſhall reſolve, every one of us in our places, to make it our work to ſeek the face of the Lord, both together &amp; apart: And we are not out of hopes but that the Lord will be found of us, and manifeſt himſelf in us, and by us. We are indeed at a great diſtance from the reſt of our relations in the reſpective Regiments to whom we belong, here being in a corner of the countrey but a ſmall part of Maj. Gen. Col. <hi>Lilburns,</hi> and Col. <hi>Morgans</hi> Regiments. However, we hope that you will have the like return from all the reſt that belong to us, upon occaſion; and we ſhall not (God willing) come in the leaſt ſhort of our duty toward them, in putting them in minde of their duty towards the Lord, and towards each other, that ſo they may not draw away their ſhoulders, but be up and doing every one in their place, in carrying forward the great Work of the moſt High, which ſurely he will have brought about.</p>
+            <p>We ſhall not trouble you any further at preſent; onely to tell you, that we will not ceaſe importuning at the Throne of grace for you, that the Lord will ſtrengthen your hearts and hands in this great buſineſs, our hearts be<g ref="char:EOLhyphen"/>ing with you, and our deſires and affections towards you, we ſhall commend you to the grace of the Lord Jeſus Chriſt, and remain</p>
+            <closer>
+               <signed>Your affectionate friends, and Brethren,</signed>
+               <dateline>
+                  <hi>Montroſs,</hi> 
+                  <date>
+                     <hi>Feb.</hi> 16. 1652.</date>
+               </dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
